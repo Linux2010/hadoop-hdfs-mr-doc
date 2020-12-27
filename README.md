@@ -1,1 +1,1 @@
-hadoop相关的hdfs等操作文档
+hadoop，hdfs，mr等 实验和操作文档总集合。
